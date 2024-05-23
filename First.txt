@@ -1,1 +1,1 @@
-I am Lukas and I am 19. This is our first commit. 
+I am Lukas and I come from Austria. This is our first commit. 
